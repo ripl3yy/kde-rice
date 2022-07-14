@@ -1,5 +1,4 @@
-# Amethyst
-A KDE plasma theme
+# KDE rice
 
 ### Look and Feel
 <img src="https://files.catbox.moe/l7bohe.png">
